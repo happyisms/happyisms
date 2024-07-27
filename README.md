@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @happyisms
-- 🌱 I’m currently learning ... minecraft modding
-- 📫 How to reach me ... happyism on discord, happyism_ on instagram
-- 😄 Pronouns: ... any work
+- 🌱 ❱❱ @happyisms
+- any pronouns, cst timezone
+- currently learning minecraft modding
 
 <!---
 happyisms/happyisms is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
