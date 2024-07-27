@@ -1,4 +1,4 @@
-- 🌱 ❱❱ @happyisms
+🌱 ❱❱ @happyisms
 - any pronouns, cst timezone
 - currently learning minecraft modding
 
